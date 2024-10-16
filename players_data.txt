@@ -1,0 +1,11 @@
+Jalal,CSE22,0,1
+Rahul,CSE22,1,0
+Dhiman,CSE22,0,1
+Firoz,CSE19,1,0
+Tonmoy,CSE22,2,0
+Nafis,CSE22,0,1
+Shafin,CSE21,0,1
+Ishtiak,CSE21,1,0
+Zamil,CSE19,0,1
+Shourov,CSE21,0,1
+Tanvir,CSE21,1,0
